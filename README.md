@@ -41,7 +41,7 @@
 
 ## <div align="center">💜 More 💜</div>
 <div id="social" align="center">
-  <a href="https://www.notion.so/shinsojeong/Shin-SoJeong-40cc0a8021f7492988ba0b5ce3550a97">
+  <a href="https://shinsojeong.notion.site/shinsojeong/Shin-SoJeong-40cc0a8021f7492988ba0b5ce3550a97">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
 </div>
