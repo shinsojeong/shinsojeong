@@ -37,10 +37,10 @@
 
 ## <div align="center">💜 More 💜</div>
 <div id="social" align="center">
-  <a href="https://shinsojeong.notion.site/shinsojeong/Shin-SoJeong-40cc0a8021f7492988ba0b5ce3550a97](https://drive.google.com/file/d/1S5Q8GK3R7KabrQulOsO8UgfZChaB3TrI/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1S5Q8GK3R7KabrQulOsO8UgfZChaB3TrI/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googledrive&logoColor=white"/>
   </a>
-  <a href="https://shinsojeong.notion.site/shinsojeong/Shin-SoJeong-40cc0a8021f7492988ba0b5ce3550a97](https://shinsojeong.tistory.com/">
+  <a href="https://shinsojeong.tistory.com">
     <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/>
   </a>
   <a href="https://shinsojeong.notion.site/shinsojeong/Shin-SoJeong-40cc0a8021f7492988ba0b5ce3550a97">
